@@ -1,0 +1,3 @@
+[submodule "generators/app/templates/proton-sample"]
+	path = generators/app/templates/proton-sample
+	url = git@github.com:nucleos-io/proton-sample.git

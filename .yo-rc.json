@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Carlos Marcano",
+      "authorEmail": "carlos@nucleos.io",
+      "authorUrl": ""
+    }
+  }
+}
